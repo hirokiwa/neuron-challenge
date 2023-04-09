@@ -12,6 +12,7 @@ const Home = (): JSX.Element => {
     return (
         <>
             <Canvaas>
+                リロードしてください
                 <NodeElement
                     parentPosition = {parentPosition}
                     currentQuantity = {1}
